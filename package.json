@@ -1,0 +1,12 @@
+{
+  "name": "my_notes",
+  "version": "1.0.0",
+  "description": "## 笔记范围",
+  "main": "index.js",
+  "scripts": {
+    "preview": "gitbook serve",
+    "build_book": "gitbook build"
+  },
+  "author": "",
+  "license": "ISC"
+}
