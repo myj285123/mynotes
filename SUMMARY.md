@@ -17,6 +17,10 @@
 
 ## python
 
+## 常用命令行收集
+* [cmd](./cmd/cmd.md)
+* [shell](./cmd/shell.md)
+
 ## I like it
 * [一些有用的网站](./myHobby/usefulNet.md "一些有用的网站")
 * [一些有用的DNS](./myHobby/usefulDNS.md "一些有用的DNS")
